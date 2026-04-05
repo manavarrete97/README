@@ -9,7 +9,7 @@
   <a href="mailto:teonr1997@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/mateonavarrete97">
+  <a href="https://github.com/manavarrete97">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/mateo.engineer_/">
@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mateonavarrete97&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/mateonavarrete97?style=for-the-badge&color=238636&label=Followers" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=manavarrete97&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/manavarrete97?style=for-the-badge&color=238636&label=Followers" alt="Followers"/>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 
 ```yaml
 nombre: Mateo Navarrete Rua
-rol: Co-Fundador
+rol: Líder de Desarrollo & Co-Fundador
 empresa: Logika Software S.A.S
 ubicación: Bogotá, Colombia 🇨🇴
 experiencia: +6 años en desarrollo de software
@@ -319,16 +319,16 @@ Technology company specialized in **custom software development** for large ente
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateonavarrete97&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&border_radius=10&order=1" height="160" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateonavarrete97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&border_radius=10&order=2" height="160" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manavarrete97&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&border_radius=10&order=1" height="160" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manavarrete97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&border_radius=10&order=2" height="160" alt="languages graph"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mateonavarrete97&locale=en&mode=daily&theme=github-dark-blue&hide_border=true&border_radius=10&order=3" height="160" alt="streak graph"/>
+  <img src="https://streak-stats.demolab.com?user=manavarrete97&locale=en&mode=daily&theme=github-dark-blue&hide_border=true&border_radius=10&order=3" height="160" alt="streak graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateonavarrete97&radius=16&theme=github-dark&area=true&order=5&hide_border=true" width="95%" alt="activity-graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manavarrete97&radius=16&theme=github-dark&area=true&order=5&hide_border=true" width="95%" alt="activity-graph"/>
 </p>
 
 ---
@@ -337,14 +337,14 @@ Technology company specialized in **custom software development** for large ente
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateonavarrete97/mateonavarrete97/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateonavarrete97/mateonavarrete97/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/mateonavarrete97/mateonavarrete97/output/github-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manavarrete97/manavarrete97/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manavarrete97/manavarrete97/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/manavarrete97/manavarrete97/output/github-snake-dark.svg" width="100%" />
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mateonavarrete97/mateonavarrete97/output/pacman-contribution-graph.svg" width="100%" alt="Pacman Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/manavarrete97/manavarrete97/output/pacman-contribution-graph.svg" width="100%" alt="Pacman Contribution Graph"/>
 </p>
 
 ---
@@ -352,7 +352,7 @@ Technology company specialized in **custom software development** for large ente
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mateonavarrete97&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=manavarrete97&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" alt="Trophies"/>
 </p>
 
 ---
