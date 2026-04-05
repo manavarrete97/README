@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Mateo%20Navarrete%20Rua&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Development%20Lead%20%7C%20Fintech%20Architect%20%7C%20Backend%20Engineer&descSize=16&descColor=8b949e&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Mateo%20Navarrete%20Rua&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Development%20Lead%20%7C%20Backend%20Engineer%20%7C%20Systems%20Engineer&descSize=16&descColor=8b949e&descAlignY=55" width="100%"/>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8F%97%EF%B8%8F+Construyendo+infraestructura+crediticia+de+clase+mundial;%F0%9F%92%B3+Building+world-class+credit+infrastructure" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%E2%9A%A1+6%2B+a%C3%B1os+liderando+y+desarrollando+bajo+presi%C3%B3n;%F0%9F%92%BB+6%2B+years+leading+%26+delivering+under+pressure" alt="Typing SVG"/>
 </p>
 
 ---
@@ -39,23 +39,71 @@ nombre: Mateo Navarrete Rua
 rol: Líder de Desarrollo & Co-Fundador
 empresa: Logika Software S.A.S
 ubicación: Bogotá, Colombia 🇨🇴
+experiencia: +6 años en desarrollo de software
 educación: Ingeniería de Sistemas — Universidad Católica Luis Amigó (2026)
 ```
 
-Soy **Ingeniero de Sistemas y Líder de Desarrollo** con más de **5 años de experiencia** construyendo soluciones backend escalables, robustas y seguras. Actualmente co-fundando **Logika Software S.A.S**, una empresa de tecnología donde diseñamos y desarrollamos productos financieros de alto impacto.
+Soy **Ingeniero de Sistemas y Líder de Desarrollo** con más de **6 años de experiencia** liderando equipos, diseñando soluciones y construyendo software de alto rendimiento para **industrias de gran escala**. He trabajado en sectores donde el software es la columna vertebral de la operación: **fintech, agroindustria, telecomunicaciones y retail**.
 
-### 🏦 Lo Que Construyo
+> 🔥 **Mi mayor fortaleza:** liderar y desarrollar **bajo presión**. Los plazos apretados, los entornos complejos y los problemas críticos en producción no me frenan — me potencian. Es donde mejor rindo y donde mi equipo sabe que puede contar conmigo.
 
-> Lidero el desarrollo de **infraestructura crediticia** para el sector fintech — desde **tarjetas de crédito** y **cores crediticios** hasta **líneas de crédito** y productos financieros completos. Trabajo con empresas de gran escala del **sector telecomunicaciones**, **supermercados de cadena** y **servicios financieros**, entregando soluciones que procesan miles de transacciones y manejan ciclos de vida crediticios end-to-end.
+Actualmente co-fundando **Logika Software S.A.S**, donde lideramos el desarrollo de productos tecnológicos para empresas líderes del mercado latinoamericano.
 
-### 🎯 Mi Enfoque
+### 🚀 Lo Que He Construido
 
-- 🔧 Arquitectura de **cores crediticios** y motores de decisión financiera
-- 💳 Desarrollo de plataformas de **tarjetas de crédito** y productos de crédito
-- 🏗️ Diseño de **APIs RESTful** de alta disponibilidad para operaciones financieras
-- 📊 Ingeniería de datos con **PostgreSQL**, **SQL Server** y bases NoSQL
-- ☁️ Infraestructura cloud en **AWS** con Docker y pipelines CI/CD
-- 👥 Liderazgo técnico de equipos bajo metodologías ágiles (Scrum)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**💳 Sector Fintech & Financiero**
+- Plataformas de **tarjetas de crédito** y líneas de crédito
+- **Cores crediticios** con ciclo de vida end-to-end
+- Motores de decisión y productos financieros completos
+- Procesamiento de miles de transacciones diarias
+
+</td>
+<td width="50%" valign="top">
+
+**🌾 Ingeniería Aplicada a la Agricultura**
+- Sistemas de **datos operativos agrícolas** en tiempo real
+- Optimización de procesos de operación agroindustrial
+- Plataformas de gestión y trazabilidad para el campo
+- Automatización de soporte técnico para operaciones agrícolas
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📡 Sector Telecomunicaciones**
+- Soluciones para **grandes operadores de telecomunicaciones**
+- Proyectos de alta complejidad con empresas del sector telco
+- Desarrollo de evolutivos y nuevas funcionalidades a escala
+
+</td>
+<td width="50%" valign="top">
+
+**🛒 Retail & Supermercados de Cadena**
+- Proyectos tecnológicos para **cadenas de supermercados**
+- Backend de alto rendimiento para operaciones masivas
+- Integraciones complejas con sistemas empresariales
+
+</td>
+</tr>
+</table>
+
+### 🎯 Mi Perfil como Líder
+
+- 🔥 **Resolución de problemas bajo presión** — entornos críticos, deadlines agresivos, producción en vivo. Es mi zona fuerte.
+- 👥 **Liderazgo técnico** de equipos de backend — coordinación, code review, mentoría y definición de tareas
+- 🏗️ Diseño y desarrollo de **APIs RESTful** de alta disponibilidad
+- 📊 Ingeniería de datos con **PostgreSQL**, **SQL Server**, **MySQL** y bases NoSQL
+- ☁️ Infraestructura cloud en **AWS (EC2)** — despliegue, configuración y administración de servidores en la nube
+- 🐳 **Docker** — containerización de servicios, manejo de ambientes y mejora de portabilidad en despliegues
+- 🤝 **Toma de requerimientos directa con clientes** — análisis funcional y comprensión del negocio
+- 🧪 Implementación de **testing automatizado** (NUnit, xUnit) y buenas prácticas de código
+- 📐 Aplicación progresiva de **principios SOLID** y **patrón MVC**
+- 🔄 Metodologías ágiles (**Scrum**) con gestión en Azure DevOps, Jira y Trello
 
 ---
 
@@ -70,30 +118,78 @@ name: Mateo Navarrete Rua
 role: Development Lead & Co-Founder
 company: Logika Software S.A.S
 location: Bogotá, Colombia 🇨🇴
+experience: 6+ years in software development
 education: Systems Engineering — Universidad Católica Luis Amigó (2026)
 ```
 
-I'm a **Systems Engineer and Development Lead** with **5+ years of experience** building scalable, robust, and secure backend solutions. Currently co-founding **Logika Software S.A.S**, a technology company where we design and develop high-impact financial products.
+I'm a **Systems Engineer and Development Lead** with **6+ years of experience** leading teams, designing solutions, and building high-performance software for **large-scale industries**. I've delivered production systems across **fintech, agribusiness, telecommunications, and retail**.
 
-### 🏦 What I Build
+> 🔥 **My greatest strength:** leading and developing **under pressure**. Tight deadlines, complex environments, and critical production issues don't slow me down — they fuel me. That's where I perform best, and where my team knows they can count on me.
 
-> I lead the development of **credit infrastructure** for the fintech sector — from **credit cards** and **credit cores** to **credit lines** and full financial products. I work with large-scale companies in **telecommunications**, **chain supermarkets**, and **financial services**, delivering solutions that process thousands of transactions and manage end-to-end credit lifecycles.
+Currently co-founding **Logika Software S.A.S**, where we lead technology product development for market-leading companies across Latin America.
 
-### 🎯 My Focus
+### 🚀 What I've Built
 
-- 🔧 Architecture of **credit cores** and financial decision engines
-- 💳 Development of **credit card** platforms and lending products
-- 🏗️ Design of high-availability **RESTful APIs** for financial operations
-- 📊 Data engineering with **PostgreSQL**, **SQL Server**, and NoSQL databases
-- ☁️ Cloud infrastructure on **AWS** with Docker and CI/CD pipelines
-- 👥 Technical leadership of teams under agile methodologies (Scrum)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**💳 Fintech & Financial Sector**
+- **Credit card** and credit line platforms
+- **Credit cores** with end-to-end lifecycle management
+- Decision engines and full financial products
+- Processing thousands of daily transactions
+
+</td>
+<td width="50%" valign="top">
+
+**🌾 Agricultural Engineering**
+- Real-time **agricultural operations data** systems
+- Optimization of agribusiness operational processes
+- Field management and traceability platforms
+- Automation of technical support for farming operations
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📡 Telecommunications Sector**
+- Solutions for **major telecom operators**
+- High-complexity projects with telco companies
+- Development of features and upgrades at scale
+
+</td>
+<td width="50%" valign="top">
+
+**🛒 Retail & Chain Supermarkets**
+- Technology projects for **supermarket chains**
+- High-performance backend for massive operations
+- Complex integrations with enterprise systems
+
+</td>
+</tr>
+</table>
+
+### 🎯 My Profile as a Leader
+
+- 🔥 **Problem-solving under pressure** — critical environments, aggressive deadlines, live production. That's my zone.
+- 👥 **Technical leadership** of backend teams — coordination, code review, mentoring, and task definition
+- 🏗️ Design and development of high-availability **RESTful APIs**
+- 📊 Data engineering with **PostgreSQL**, **SQL Server**, **MySQL**, and NoSQL databases
+- ☁️ Cloud infrastructure on **AWS (EC2)** — server deployment, configuration, and cloud administration
+- 🐳 **Docker** — service containerization, environment management, and improved deployment portability
+- 🤝 **Direct client requirements gathering** — functional analysis and business understanding
+- 🧪 Implementation of **automated testing** (NUnit, xUnit) and coding best practices
+- 📐 Progressive adoption of **SOLID principles** and **MVC pattern**
+- 🔄 Agile methodologies (**Scrum**) with Azure DevOps, Jira, and Trello
 
 ---
 
 ## 🏢 Logika Software S.A.S
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀_LOGIKA_SOFTWARE-Building_the_Future_of_Fintech-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Logika Software"/>
+  <img src="https://img.shields.io/badge/🚀_LOGIKA_SOFTWARE-Technology_That_Transforms_Industries-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Logika Software"/>
 </p>
 
 <table align="center">
@@ -102,14 +198,14 @@ I'm a **Systems Engineer and Development Lead** with **5+ years of experience** 
 
 **🇨🇴 Español**
 
-Empresa de tecnología enfocada en construir **productos financieros** de próxima generación. Desarrollamos cores crediticios, plataformas de tarjetas de crédito y soluciones para grandes empresas del sector telco y retail en Latinoamérica.
+Empresa de tecnología especializada en **desarrollo de software a la medida** para grandes empresas. Desde cores crediticios y plataformas fintech hasta soluciones para agroindustria, telecomunicaciones y retail en Latinoamérica.
 
 </td>
 <td align="center" width="50%">
 
 **🇺🇸 English**
 
-Technology company focused on building **next-generation financial products**. We develop credit cores, credit card platforms, and solutions for large telco and retail companies across Latin America.
+Technology company specialized in **custom software development** for large enterprises. From credit cores and fintech platforms to solutions for agribusiness, telecommunications, and retail across Latin America.
 
 </td>
 </tr>
@@ -202,6 +298,24 @@ Technology company focused on building **next-generation financial products**. W
 
 ---
 
+## 📈 Trayectoria / Career Path
+
+```
+2020 ─────────────────────────────────────────────────────────── 2026
+
+  🌱 Desarrollador            🔧 Dev Backend          👑 Líder de Desarrollo
+  Backend Jr.                  & DBA                    & Co-Fundador
+  ┃                            ┃                        ┃
+  ┣━ C# / .NET                ┣━ APIs RESTful          ┣━ Liderazgo bajo presión 🔥
+  ┣━ SQL Server               ┣━ Azure Functions       ┣━ Logika Software S.A.S
+  ┣━ Mesa de ayuda            ┣━ Angular               ┣━ Fintech / Agro / Telco
+  ┗━ Soporte técnico          ┣━ Docker 🐳             ┣━ AWS EC2 ☁️
+                               ┣━ NUnit / xUnit        ┣━ Docker en producción
+                               ┗━ Principios SOLID     ┗━ Mentoría de equipos
+```
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -250,8 +364,8 @@ Technology company focused on building **next-generation financial products**. W
 ---
 
 <p align="center">
-  <b>🇨🇴</b> <i>"El código que escribo hoy construye la infraestructura financiera del mañana."</i><br/>
-  <b>🇺🇸</b> <i>"The code I write today builds tomorrow's financial infrastructure."</i>
+  <b>🇨🇴</b> <i>"6 años construyendo software que mueve industrias — del campo a la banca, del código al liderazgo."</i><br/>
+  <b>🇺🇸</b> <i>"6 years building software that moves industries — from the field to finance, from code to leadership."</i>
 </p>
 
 <p align="center">
