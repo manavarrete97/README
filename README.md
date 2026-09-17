@@ -37,7 +37,6 @@
 ```yaml
 nombre: Mateo Navarrete Rua
 rol: Líder de Desarrollo & Co-Fundador
-empresa: Logika Software S.A.S
 ubicación: Bogotá, Colombia 🇨🇴
 experiencia: +6 años en desarrollo de software
 educación: Ingeniería de Sistemas — Universidad Católica Luis Amigó (2026)
