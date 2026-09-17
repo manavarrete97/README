@@ -260,8 +260,8 @@ Establecí **MVC, SOLID y pruebas unitarias (NUnit / xUnit)** como estándar, su
  ├─ 2025 ──▸ 💻  Universidad Tech · Programador Senior .NET
  │              C# / .NET · Clean Architecture · MVC · SOLID · Testing
  │
- ├─ 2023 ──▸ 🛠️  Soluciones WIGA · Líder de Equipo Backend
- │              Estándares de equipo · mentoría · Docker · Angular
+ ├─ 2023 ──▸ 🛠️  Soluciones WIGA · Desarrollador Backend
+ │              Estándares de equipo · Docker · Angular · C# / .NET · SQL Server · MySQL · MongoDB
  │
  ├─ 2020 ──▸ 🌱  Soluciones WIGA · Desarrollador Backend
  │              C# / .NET · SQL Server · MySQL · MongoDB
