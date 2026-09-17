@@ -233,14 +233,13 @@ Establecí **MVC, SOLID y pruebas unitarias (NUnit / xUnit)** como estándar, su
 
 <img src="https://img.shields.io/badge/5_a%C3%B1os_8_meses-Tecnolog%C3%ADa_agroindustrial-e3a008?style=flat-square&labelColor=0d1117" alt="5 años 8 meses"/>
 
-#### 🛠️ Desarrollador Backend → Líder de Equipo Backend
+#### 🛠️ Desarrollador Backend
 
 - Diseñé y construí **soluciones backend escalables en C# / .NET** para la operación agroindustrial, incluida la **arquitectura del módulo de vaporizadores de azufre**.
 - Establecí **MVC, SOLID y pruebas unitarias (NUnit, xUnit)** como **estándar del equipo**, elevando calidad y velocidad de entrega.
 - Administré y optimicé bases **SQL Server, MySQL y MongoDB**: afinamiento de consultas, integridad y rendimiento.
 - **Automaticé tareas repetitivas de soporte**, reduciendo los tiempos de respuesta del equipo técnico.
 - Construí **interfaces administrativas en Angular**, gestioné flujos colaborativos de **Git** (Azure DevOps, GitHub) y contribuí a la **dockerización** de servicios.
-- **Lideré el equipo backend**: planificación, *code review*, **mentoría** y adopción de estándares.
 
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/> <img src="https://img.shields.io/badge/NUnit-008000?style=flat-square&logo=dotnet&logoColor=white" alt="NUnit"/> <img src="https://img.shields.io/badge/xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="xUnit"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
 
