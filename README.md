@@ -302,7 +302,7 @@ Technology company specialized in **custom software development** for large ente
 2020 ─────────────────────────────────────────────────────────── 2026
 
   🌱 Desarrollador            🔧 Dev Backend          👑 Líder de Desarrollo
-  Backend Jr.                  & DBA                    & Co-Fundador
+  Backend.                     & DBA                    & Co-Fundador
   ┃                            ┃                        ┃
   ┣━ C# / .NET                ┣━ APIs RESTful          ┣━ Liderazgo bajo presión 🔥
   ┣━ SQL Server               ┣━ Azure Functions       ┣━ Logika Software S.A.S
